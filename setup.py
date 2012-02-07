@@ -21,7 +21,7 @@ setup(
     keywords='',
     author='Vanderson Mota dos Santos',
     author_email='vanderson.mota@gmail.com',
-    url='http://newton.cefetcampos.br/svn/cdd-bd/python-libraries/pypdf2table',
+    url='http://nsi.iff.edu.br',
     license='',
     packages=find_packages(exclude=['ez_setup', 'tests']),
     include_package_data=True,
