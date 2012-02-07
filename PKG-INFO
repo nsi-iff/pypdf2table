@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: pypdf2table
+Version: 0.2.2
+Summary: PDF table extraction tool
+Home-page: http://newton.cefetcampos.br/svn/cdd-bd/python-libraries/pypdf2table
+Author: Vanderson Mota dos Santos
+Author-email: vanderson.mota@gmail.com
+License: UNKNOWN
+Description: This project was based on the table extraction heuristic created by Burcu Yildiz, of
+        Vienna Technological University
+        
+Platform: UNKNOWN

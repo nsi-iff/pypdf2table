@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="842" width="595">
+	<fontspec id="0" size="6" family="Times" color="#000000"/>
+	<fontspec id="1" size="4" family="Times" color="#000000"/>
+	<fontspec id="2" size="6" family="Times" color="#000000"/>
+	<fontspec id="3" size="10" family="Times" color="#000000"/>
+	<fontspec id="4" size="5" family="Times" color="#000000"/>
+<text top="108" left="35" width="8" height="10" font="0"><b>It.</b></text>
+<text top="109" left="124" width="53" height="8" font="1"><b>MEDICAMENTO</b></text>
+<text top="109" left="290" width="58" height="8" font="1"><b>APRESENTAÇÃO</b></text>
+<text top="109" left="391" width="173" height="8" font="1"><b>UNIDADE DE CADASTRO PREÇO PROPOSTO (R$)</b></text>
+<text top="125" left="42" width="136" height="11" font="2">1 Acetato de medroxiprogesterona </text>
+<text top="126" left="254" width="43" height="10" font="2">150 mg/ml </text>
+<text top="125" left="418" width="29" height="10" font="2">Ampola</text>
+<text top="125" left="512" width="22" height="10" font="2">6,700</text>
+<text top="138" left="42" width="40" height="11" font="2">2 Aciclovir</text>
+<text top="139" left="254" width="52" height="10" font="2">200mg/comp.</text>
+<text top="138" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="138" left="512" width="22" height="10" font="2">0,280</text>
+<text top="150" left="42" width="86" height="10" font="2">3 Ácido Acetilsalicílico</text>
+<text top="150" left="254" width="52" height="10" font="2">500mg/comp.</text>
+<text top="150" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="150" left="512" width="22" height="10" font="2">0,035</text>
+<text top="163" left="42" width="86" height="10" font="2">4 Ácido Acetilsalicílico</text>
+<text top="163" left="254" width="52" height="10" font="2">100mg/comp.</text>
+<text top="163" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="163" left="512" width="22" height="10" font="2">0,030</text>
+<text top="176" left="42" width="55" height="10" font="2">5 Ácido Fólico</text>
+<text top="176" left="254" width="43" height="10" font="2">5mg/comp.</text>
+<text top="176" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="176" left="512" width="22" height="10" font="2">0,054</text>
+<text top="188" left="42" width="51" height="10" font="2">6 Albendazol</text>
+<text top="188" left="254" width="96" height="10" font="2">400mg/comp. mastigável</text>
+<text top="188" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="188" left="512" width="22" height="10" font="2">0,560</text>
+<text top="201" left="42" width="46" height="10" font="2">7 Alopurinol</text>
+<text top="201" left="254" width="52" height="10" font="2">100mg/comp.</text>
+<text top="201" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="201" left="512" width="22" height="10" font="2">0,080</text>
+<text top="214" left="42" width="264" height="11" font="2">8 Amiodarona 200mg/comp.</text>
+<text top="214" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="214" left="512" width="22" height="10" font="2">0,200</text>
+<text top="227" left="42" width="96" height="10" font="2">9 Amitriptilina(Cloridrato)</text>
+<text top="227" left="254" width="48" height="10" font="2">25mg/comp.</text>
+<text top="227" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="227" left="512" width="22" height="10" font="2">0,220</text>
+<text top="239" left="37" width="56" height="10" font="2">10 Amoxicilina</text>
+<text top="239" left="254" width="49" height="10" font="2">500mg/cáps.</text>
+<text top="239" left="417" width="32" height="10" font="2">Cápsula</text>
+<text top="239" left="512" width="22" height="10" font="2">0,190</text>
+<text top="252" left="37" width="56" height="10" font="2">11 Amoxicilina</text>
+<text top="252" left="254" width="102" height="10" font="2">250mg/5ml/pó p/susp. oral</text>
+<text top="252" left="407" width="50" height="10" font="2">Frasco 60 ml</text>
+<text top="252" left="512" width="22" height="10" font="2">1,960</text>
+<text top="265" left="37" width="56" height="10" font="2">12 Amoxicilina</text>
+<text top="265" left="254" width="102" height="10" font="2">250mg/5ml/pó p/susp. oral</text>
+<text top="265" left="405" width="55" height="10" font="2">Frasco 150 ml</text>
+<text top="265" left="512" width="22" height="10" font="2">4,900</text>
+<text top="278" left="37" width="264" height="10" font="2">13 Atenolol 25mg/comp.</text>
+<text top="278" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="278" left="512" width="22" height="10" font="2">0,075</text>
+<text top="290" left="37" width="56" height="10" font="2">14 Azatioprina</text>
+<text top="290" left="254" width="48" height="10" font="2">50mg/comp.</text>
+<text top="290" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="290" left="512" width="22" height="10" font="2">1,400</text>
+<text top="303" left="37" width="60" height="11" font="2">15 Azitromicina</text>
+<text top="304" left="254" width="52" height="10" font="2">500mg/comp.</text>
+<text top="303" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="303" left="512" width="22" height="10" font="2">2,640</text>
+<text top="316" left="37" width="113" height="10" font="2">16 Benzilpenicilina Benzatina</text>
+<text top="316" left="254" width="96" height="10" font="2">1.200.000ui/pó p/sus. inj.</text>
+<text top="316" left="404" width="58" height="10" font="2">Frasco-ampola</text>
+<text top="316" left="512" width="22" height="10" font="2">1,500</text>
+<text top="328" left="37" width="152" height="10" font="2">17 Benzilpenicilina Procaína+Potássica</text>
+<text top="328" left="254" width="118" height="10" font="2">300.000+100.000ui/pó/sus. inj.</text>
+<text top="328" left="404" width="58" height="10" font="2">Frasco-ampola</text>
+<text top="328" left="512" width="22" height="10" font="2">1,500</text>
+<text top="341" left="37" width="92" height="10" font="2">18 Benzoato de Benzila</text>
+<text top="341" left="254" width="73" height="10" font="2">200mg/ml/emulsão</text>
+<text top="341" left="405" width="55" height="10" font="2">Frasco 100 ml</text>
+<text top="341" left="512" width="22" height="10" font="2">1,400</text>
+<text top="354" left="37" width="92" height="10" font="2">19 Benzoato de Benzila</text>
+<text top="354" left="254" width="73" height="10" font="2">200mg/ml/emulsão</text>
+<text top="354" left="407" width="50" height="10" font="2">Frasco 60 ml</text>
+<text top="354" left="512" width="22" height="10" font="2">1,100</text>
+<text top="367" left="37" width="54" height="10" font="2">20 Biperideno</text>
+<text top="367" left="254" width="43" height="10" font="2">2mg/comp.</text>
+<text top="367" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="367" left="512" width="22" height="10" font="2">0,073</text>
+<text top="379" left="37" width="137" height="10" font="2">21 Brometo de n-butilescopolamina</text>
+<text top="379" left="254" width="52" height="10" font="2">10 mg/frasco </text>
+<text top="379" left="402" width="61" height="10" font="2">frasco de 20 ml </text>
+<text top="379" left="512" width="22" height="10" font="2">3,900</text>
+<text top="392" left="37" width="47" height="10" font="2">22 Captopril</text>
+<text top="392" left="254" width="80" height="10" font="2">25mg/comp. sulcado</text>
+<text top="392" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="392" left="512" width="22" height="10" font="2">0,040</text>
+<text top="405" left="37" width="74" height="10" font="2">23 Carbamazepina</text>
+<text top="405" left="254" width="52" height="10" font="2">200mg/comp.</text>
+<text top="405" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="405" left="512" width="22" height="10" font="2">0,130</text>
+<text top="417" left="37" width="100" height="10" font="2">24 Carbidopa + Levodopa</text>
+<text top="417" left="254" width="84" height="10" font="2">25mg + 250mg/comp.</text>
+<text top="417" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="417" left="512" width="22" height="10" font="2">0,480</text>
+<text top="430" left="37" width="152" height="10" font="2">25 Cefalexina(Cloridrato ou Sal Sódico)</text>
+<text top="430" left="254" width="49" height="10" font="2">500mg/cáps.</text>
+<text top="430" left="417" width="32" height="10" font="2">Cápsula</text>
+<text top="430" left="512" width="22" height="10" font="2">0,400</text>
+<text top="443" left="37" width="152" height="10" font="2">26 Cefalexina(Cloridrato ou Sal Sódico)</text>
+<text top="443" left="254" width="83" height="10" font="2">250mg/5ml/susp. oral</text>
+<text top="443" left="407" width="50" height="10" font="2">Frasco 60 ml</text>
+<text top="443" left="512" width="22" height="10" font="2">4,960</text>
+<text top="456" left="37" width="152" height="10" font="2">27 Cefalexina(Cloridrato ou Sal Sódico)</text>
+<text top="456" left="254" width="83" height="10" font="2">250mg/5ml/susp. oral</text>
+<text top="456" left="405" width="55" height="10" font="2">Frasco 125 ml</text>
+<text top="456" left="510" width="26" height="10" font="2">10,000</text>
+<text top="468" left="37" width="61" height="10" font="2">28 Cetoconazol</text>
+<text top="468" left="254" width="52" height="10" font="2">200mg/comp.</text>
+<text top="468" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="468" left="512" width="22" height="10" font="2">0,230</text>
+<text top="481" left="37" width="67" height="11" font="2">29 Ciprofloxacino</text>
+<text top="482" left="254" width="52" height="10" font="2">500mg/comp.</text>
+<text top="481" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="481" left="512" width="22" height="10" font="2">0,380</text>
+<text top="494" left="37" width="88" height="10" font="2">30 Cloreto de Potássio</text>
+<text top="494" left="254" width="52" height="10" font="2">60mg/ml/xpe.</text>
+<text top="494" left="405" width="55" height="10" font="2">Frasco 100 ml</text>
+<text top="494" left="512" width="22" height="10" font="2">1,880</text>
+<text top="506" left="37" width="99" height="10" font="2">31 Cloreto de Sódio 0,9%</text>
+<text top="506" left="254" width="67" height="10" font="2">9mg/ml/sol. nasal</text>
+<text top="506" left="418" width="29" height="10" font="2">Frasco </text>
+<text top="506" left="512" width="22" height="10" font="2">0,950</text>
+<text top="519" left="37" width="69" height="11" font="2">32 Clorpromazina</text>
+<text top="520" left="254" width="48" height="10" font="2">25mg/comp.</text>
+<text top="519" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="519" left="512" width="22" height="10" font="2">0,100</text>
+<text top="532" left="37" width="69" height="11" font="2">33 Clorpromazina</text>
+<text top="533" left="254" width="52" height="10" font="2">100mg/comp.</text>
+<text top="532" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="532" left="512" width="22" height="10" font="2">0,125</text>
+<text top="545" left="37" width="71" height="11" font="2">34 Dexametazona</text>
+<text top="546" left="254" width="43" height="10" font="2">Crem.0,1%</text>
+<text top="545" left="420" width="24" height="10" font="2">Tubo  </text>
+<text top="545" left="512" width="22" height="10" font="2">1,000</text>
+<text top="557" left="37" width="119" height="10" font="2">35 Dexclorfeniramina(Maleato)</text>
+<text top="557" left="254" width="43" height="10" font="2">2mg/comp.</text>
+<text top="557" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="557" left="512" width="22" height="10" font="2">0,060</text>
+<text top="570" left="37" width="119" height="10" font="2">36 Dexclorfeniramina(Maleato)</text>
+<text top="570" left="254" width="59" height="10" font="2">0,4mg/sol. Oral</text>
+<text top="570" left="404" width="57" height="10" font="2">Frasco 120 ml </text>
+<text top="570" left="512" width="22" height="10" font="2">2,070</text>
+<text top="583" left="37" width="52" height="10" font="2">37 Diazepam</text>
+<text top="583" left="254" width="73" height="10" font="2">5mg/comp.sulcado</text>
+<text top="583" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="583" left="512" width="22" height="10" font="2">0,040</text>
+<text top="596" left="37" width="52" height="10" font="2">38 Diazepam</text>
+<text top="596" left="254" width="77" height="10" font="2">10mg/comp.sulcado</text>
+<text top="596" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="596" left="512" width="22" height="10" font="2">0,080</text>
+<text top="608" left="37" width="46" height="10" font="2">39 Digoxina</text>
+<text top="608" left="254" width="55" height="10" font="2">0,25mg/comp.</text>
+<text top="608" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="608" left="512" width="22" height="10" font="2">0,060</text>
+<text top="621" left="37" width="45" height="10" font="2">40 Dipirona</text>
+<text top="621" left="254" width="52" height="10" font="2">500mg/ml gts</text>
+<text top="621" left="408" width="50" height="10" font="2">Frasco 10 ml</text>
+<text top="621" left="512" width="22" height="10" font="2">0,700</text>
+<text top="634" left="37" width="54" height="11" font="2">41 Doxiciclina</text>
+<text top="635" left="254" width="52" height="10" font="2">100mg/comp.</text>
+<text top="634" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="634" left="512" width="22" height="10" font="2">0,380</text>
+<text top="646" left="37" width="46" height="11" font="2">42 Enalapril</text>
+<text top="647" left="254" width="48" height="10" font="2">10mg/comp.</text>
+<text top="646" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="646" left="512" width="22" height="10" font="2">0,060</text>
+<text top="659" left="37" width="46" height="11" font="2">43 Enalapril</text>
+<text top="660" left="254" width="48" height="10" font="2">20mg/comp.</text>
+<text top="659" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="659" left="512" width="22" height="10" font="2">0,070</text>
+<text top="672" left="37" width="199" height="11" font="2">44 Enantato de Noretisterona+Valerato de Estradiol</text>
+<text top="673" left="254" width="78" height="10" font="2">50mg+5mg/injetável</text>
+<text top="672" left="408" width="48" height="10" font="2">Seringa 1 ml</text>
+<text top="672" left="510" width="26" height="10" font="2">13,500</text>
+<text top="685" left="37" width="164" height="10" font="2">45 Eritromicina(Estearato ou Etilsuccinato)</text>
+<text top="685" left="254" width="83" height="10" font="2">125mg/5ml/susp. oral</text>
+<text top="685" left="407" width="50" height="10" font="2">Frasco 60 ml</text>
+<text top="685" left="512" width="22" height="10" font="2">2,300</text>
+<text top="697" left="37" width="164" height="10" font="2">46 Eritromicina(Estearato ou Etilsuccinato)</text>
+<text top="697" left="254" width="75" height="10" font="2">500mg/comp./cáps.</text>
+<text top="697" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="697" left="512" width="22" height="10" font="2">0,540</text>
+<text top="710" left="37" width="126" height="10" font="2">47 Etinilestradiol+Levonorgestrel</text>
+<text top="710" left="254" width="86" height="10" font="2">0,03mg+0,15mg/comp</text>
+<text top="710" left="390" width="85" height="10" font="2">Cartela c/ 21 cápsulas</text>
+<text top="710" left="512" width="22" height="10" font="2">0,850</text>
+<text top="723" left="37" width="49" height="10" font="2">48 Fenitoína</text>
+<text top="723" left="254" width="52" height="10" font="2">100mg/comp.</text>
+<text top="723" left="412" width="42" height="10" font="2">compimido</text>
+<text top="723" left="512" width="22" height="10" font="2">0,100</text>
+<text top="735" left="37" width="61" height="10" font="2">49 Fenobarbital</text>
+<text top="735" left="254" width="52" height="10" font="2">100mg/comp.</text>
+<text top="735" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="735" left="512" width="22" height="10" font="2">0,060</text>
+<text top="748" left="37" width="54" height="10" font="2">50 Fluconazol</text>
+<text top="748" left="254" width="43" height="10" font="2">100mg/rev.</text>
+<text top="748" left="417" width="32" height="10" font="2">Cápsula</text>
+<text top="748" left="512" width="22" height="10" font="2">0,950</text>
+<text top="761" left="37" width="54" height="10" font="2">51 Fluconazol</text>
+<text top="761" left="254" width="43" height="10" font="2">150mg/rev.</text>
+<text top="761" left="417" width="32" height="10" font="2">Cápsula</text>
+<text top="761" left="512" width="22" height="10" font="2">0,950</text>
+<text top="774" left="37" width="58" height="10" font="2">52 Furosemida</text>
+<text top="774" left="254" width="48" height="10" font="2">40mg/comp.</text>
+<text top="774" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="774" left="512" width="22" height="10" font="2">0,045</text>
+<text top="76" left="245" width="125" height="14" font="3"><b>TABELA DE PREÇOS</b></text>
+<text top="31" left="31" width="3" height="8" font="4"> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="842" width="595">
+<text top="31" left="31" width="3" height="8" font="4"> </text>
+<text top="67" left="37" width="67" height="10" font="2">53 Glibenclamida</text>
+<text top="67" left="254" width="43" height="10" font="2">5mg/comp.</text>
+<text top="67" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="67" left="512" width="22" height="10" font="2">0,040</text>
+<text top="80" left="37" width="56" height="10" font="2">54 Haloperidol</text>
+<text top="80" left="254" width="43" height="10" font="2">1mg/comp.</text>
+<text top="80" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="80" left="512" width="22" height="10" font="2">0,080</text>
+<text top="92" left="37" width="56" height="10" font="2">55 Haloperidol</text>
+<text top="92" left="254" width="43" height="10" font="2">5mg/comp.</text>
+<text top="92" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="92" left="512" width="22" height="10" font="2">0,120</text>
+<text top="105" left="37" width="56" height="10" font="2">56 Haloperidol</text>
+<text top="105" left="254" width="61" height="10" font="2">2mg/ml/sol. oral</text>
+<text top="105" left="407" width="50" height="10" font="2">Frasco 20 ml</text>
+<text top="105" left="512" width="22" height="10" font="2">1,940</text>
+<text top="118" left="37" width="77" height="10" font="2">57 Hidroclorotiazida</text>
+<text top="118" left="254" width="48" height="10" font="2">25mg/comp.</text>
+<text top="118" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="118" left="512" width="22" height="10" font="2">0,020</text>
+<text top="130" left="37" width="54" height="10" font="2">58 Ibuprofeno</text>
+<text top="130" left="254" width="52" height="10" font="2">300mg/comp.</text>
+<text top="130" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="130" left="512" width="22" height="10" font="2">0,160</text>
+<text top="143" left="37" width="70" height="11" font="2">59 Levonorgestrel</text>
+<text top="144" left="254" width="55" height="10" font="2">0,75mg/comp.</text>
+<text top="143" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="143" left="512" width="22" height="10" font="2">3,470</text>
+<text top="156" left="37" width="60" height="10" font="2">60 Mebendazol</text>
+<text top="156" left="254" width="52" height="10" font="2">100mg/comp.</text>
+<text top="156" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="156" left="512" width="22" height="10" font="2">0,050</text>
+<text top="169" left="37" width="60" height="10" font="2">61 Mebendazol</text>
+<text top="169" left="254" width="80" height="10" font="2">100mg/5ml/sup. Oral</text>
+<text top="169" left="407" width="50" height="10" font="2">Frasco 30 ml</text>
+<text top="169" left="512" width="22" height="10" font="2">1,100</text>
+<text top="181" left="37" width="56" height="10" font="2">62 Metformina</text>
+<text top="181" left="254" width="52" height="10" font="2">500mg/comp.</text>
+<text top="181" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="181" left="512" width="22" height="10" font="2">0,080</text>
+<text top="194" left="37" width="56" height="11" font="2">63 Metformina</text>
+<text top="195" left="254" width="52" height="10" font="2">850mg/comp.</text>
+<text top="194" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="194" left="512" width="22" height="10" font="2">0,110</text>
+<text top="207" left="37" width="50" height="10" font="2">64 Metildopa</text>
+<text top="207" left="254" width="67" height="10" font="2">250mg/comp.rev.</text>
+<text top="207" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="207" left="512" width="22" height="10" font="2">0,170</text>
+<text top="219" left="37" width="50" height="10" font="2">65 Metildopa</text>
+<text top="219" left="254" width="67" height="10" font="2">500mg/comp.rev.</text>
+<text top="219" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="219" left="512" width="22" height="10" font="2">0,340</text>
+<text top="232" left="37" width="120" height="10" font="2">66 Metoclopramida (Cloridrato)</text>
+<text top="232" left="254" width="48" height="10" font="2">10mg/comp.</text>
+<text top="232" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="232" left="512" width="22" height="10" font="2">0,040</text>
+<text top="245" left="37" width="120" height="10" font="2">67 Metoclopramida (Cloridrato)</text>
+<text top="245" left="254" width="59" height="10" font="2">4mg/ml/sol.oral</text>
+<text top="245" left="407" width="50" height="10" font="2">Frasco 10 ml</text>
+<text top="245" left="512" width="22" height="10" font="2">0,750</text>
+<text top="258" left="37" width="62" height="10" font="2">68 Metronidazol</text>
+<text top="258" left="254" width="52" height="10" font="2">250mg/comp.</text>
+<text top="258" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="258" left="512" width="22" height="10" font="2">0,100</text>
+<text top="270" left="37" width="65" height="10" font="2">69 Metronidazol </text>
+<text top="270" left="254" width="69" height="10" font="2">5% creme vaginal</text>
+<text top="270" left="401" width="63" height="10" font="2">Tubo 50 gramas</text>
+<text top="270" left="512" width="22" height="10" font="2">2,150</text>
+<text top="283" left="37" width="107" height="10" font="2">70 Metronidazol (Benzoato)</text>
+<text top="283" left="254" width="83" height="10" font="2">200mg/5ml/susp. oral</text>
+<text top="283" left="405" width="55" height="10" font="2">Frasco 100 ml</text>
+<text top="283" left="512" width="22" height="10" font="2">2,400</text>
+<text top="296" left="37" width="85" height="10" font="2">71 Miconazol (Nitrato)</text>
+<text top="296" left="254" width="36" height="10" font="2">2%/locão</text>
+<text top="296" left="408" width="50" height="10" font="2">Frasco 30 ml</text>
+<text top="296" left="512" width="22" height="10" font="2">1,860</text>
+<text top="308" left="37" width="85" height="10" font="2">72 Miconazol (Nitrato)</text>
+<text top="308" left="254" width="24" height="10" font="2">2%/pó</text>
+<text top="308" left="408" width="50" height="10" font="2">Frasco 30 ml</text>
+<text top="308" left="512" width="22" height="10" font="2">4,950</text>
+<text top="321" left="37" width="107" height="10" font="2">73 Monitrato de Isossorbida</text>
+<text top="321" left="254" width="48" height="10" font="2">20mg/comp.</text>
+<text top="321" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="321" left="512" width="22" height="10" font="2">0,100</text>
+<text top="334" left="37" width="177" height="10" font="2">74 Neomicina (Sulfato) + Bacitracina (Zíncica)</text>
+<text top="334" left="254" width="77" height="10" font="2">5mg + 250ui/g/pom.</text>
+<text top="334" left="401" width="63" height="10" font="2">Tubo 10 gramas</text>
+<text top="334" left="512" width="22" height="10" font="2">1,350</text>
+<text top="347" left="37" width="177" height="10" font="2">75 Neomicina (Sulfato) + Bacitracina (Zíncica)</text>
+<text top="347" left="254" width="77" height="10" font="2">5mg + 250ui/g/pom.</text>
+<text top="347" left="401" width="63" height="10" font="2">Tubo 15 gramas</text>
+<text top="347" left="512" width="22" height="10" font="2">2,020</text>
+<text top="359" left="37" width="51" height="10" font="2">76 Nifedipina</text>
+<text top="359" left="254" width="77" height="10" font="2">20mg/comp.lib.cont.</text>
+<text top="359" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="359" left="512" width="22" height="10" font="2">0,060</text>
+<text top="372" left="37" width="46" height="10" font="2">77 Nistatina</text>
+<text top="372" left="254" width="93" height="10" font="2">25.000 UI/crem. Vaginal</text>
+<text top="372" left="401" width="63" height="10" font="2">Tubo 60 gramas</text>
+<text top="372" left="512" width="22" height="10" font="2">2,280</text>
+<text top="385" left="37" width="46" height="10" font="2">78 Nistatina</text>
+<text top="385" left="254" width="93" height="10" font="2">25.000 UI/crem. Vaginal</text>
+<text top="385" left="401" width="63" height="10" font="2">Tubo 50 gramas</text>
+<text top="385" left="512" width="22" height="10" font="2">1,900</text>
+<text top="398" left="37" width="46" height="10" font="2">79 Nistatina</text>
+<text top="398" left="254" width="98" height="10" font="2">100.000 UI/ml/ susp. Oral</text>
+<text top="398" left="408" width="50" height="10" font="2">Frasco 30 ml</text>
+<text top="398" left="512" width="22" height="10" font="2">3,620</text>
+<text top="410" left="37" width="65" height="11" font="2">80 Noretisterona</text>
+<text top="411" left="254" width="55" height="10" font="2">0,35mg/comp.</text>
+<text top="410" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="410" left="512" width="22" height="10" font="2">0,040</text>
+<text top="423" left="37" width="55" height="10" font="2">81 Omeprazol</text>
+<text top="423" left="254" width="45" height="10" font="2">20mg/cáps.</text>
+<text top="423" left="417" width="32" height="10" font="2">Cápsula</text>
+<text top="423" left="512" width="22" height="10" font="2">0,230</text>
+<text top="436" left="37" width="61" height="10" font="2">82 Paracetamol</text>
+<text top="436" left="254" width="52" height="10" font="2">500mg/comp.</text>
+<text top="436" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="436" left="512" width="22" height="10" font="2">0,090</text>
+<text top="448" left="37" width="61" height="10" font="2">83 Paracetamol</text>
+<text top="448" left="254" width="86" height="10" font="2">200mg/ml/sol. Oral gts</text>
+<text top="448" left="408" width="50" height="10" font="2">Frasco 10 ml</text>
+<text top="448" left="512" width="22" height="10" font="2">0,850</text>
+<text top="461" left="37" width="61" height="10" font="2">84 Paracetamol</text>
+<text top="461" left="254" width="86" height="10" font="2">200mg/ml/sol. Oral gts</text>
+<text top="461" left="408" width="50" height="10" font="2">Frasco 15 ml</text>
+<text top="461" left="512" width="22" height="10" font="2">1,270</text>
+<text top="474" left="37" width="61" height="10" font="2">85 Paracetamol</text>
+<text top="474" left="254" width="87" height="10" font="2">100mg/ml/sol. oral gts.</text>
+<text top="474" left="408" width="50" height="10" font="2">Frasco 10 ml</text>
+<text top="474" left="512" width="22" height="10" font="2">0,700</text>
+<text top="487" left="37" width="61" height="10" font="2">86 Paracetamol</text>
+<text top="487" left="254" width="87" height="10" font="2">100mg/ml/sol. oral gts.</text>
+<text top="487" left="408" width="50" height="10" font="2">Frasco 15 ml</text>
+<text top="487" left="512" width="22" height="10" font="2">1,000</text>
+<text top="499" left="37" width="56" height="10" font="2">87 Prednisona</text>
+<text top="499" left="254" width="48" height="10" font="2">20mg/comp.</text>
+<text top="499" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="499" left="512" width="22" height="10" font="2">0,180</text>
+<text top="512" left="37" width="56" height="10" font="2">88 Prednisona</text>
+<text top="512" left="254" width="43" height="10" font="2">5mg/comp.</text>
+<text top="512" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="512" left="512" width="22" height="10" font="2">0,080</text>
+<text top="525" left="37" width="107" height="10" font="2">89 Prometazina (Cloridrato)</text>
+<text top="525" left="254" width="48" height="10" font="2">25mg/comp.</text>
+<text top="525" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="525" left="512" width="22" height="10" font="2">0,120</text>
+<text top="537" left="37" width="102" height="10" font="2">90 Propranolol (Cloridrato)</text>
+<text top="537" left="254" width="48" height="10" font="2">40mg/comp.</text>
+<text top="537" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="537" left="512" width="22" height="10" font="2">0,020</text>
+<text top="550" left="37" width="51" height="10" font="2">91 Ranitidina</text>
+<text top="550" left="254" width="52" height="10" font="2">150mg/comp.</text>
+<text top="550" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="550" left="512" width="22" height="10" font="2">0,120</text>
+<text top="563" left="37" width="107" height="10" font="2">92 Sais p/ Reidratação Oral</text>
+<text top="563" left="254" width="51" height="10" font="2">pó p/sol. Oral</text>
+<text top="563" left="390" width="86" height="10" font="2">Envelope 27,9 gramas</text>
+<text top="563" left="512" width="22" height="10" font="2">0,600</text>
+<text top="576" left="37" width="91" height="10" font="2">93 Salbutamol (Sulfato)</text>
+<text top="576" left="254" width="76" height="10" font="2">2mg/comp. Sulcado</text>
+<text top="576" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="576" left="512" width="22" height="10" font="2">0,040</text>
+<text top="588" left="37" width="91" height="10" font="2">94 Salbutamol (Sulfato)</text>
+<text top="588" left="254" width="52" height="10" font="2">2mg/5ml/xpe.</text>
+<text top="588" left="404" width="57" height="10" font="2">Frasco 120 ml </text>
+<text top="588" left="512" width="22" height="10" font="2">1,150</text>
+<text top="601" left="37" width="91" height="10" font="2">95 Salbutamol (Sulfato)</text>
+<text top="601" left="254" width="52" height="10" font="2">2mg/5ml/xpe.</text>
+<text top="601" left="404" width="57" height="10" font="2">Frasco 125 ml </text>
+<text top="601" left="512" width="22" height="10" font="2">1,200</text>
+<text top="614" left="37" width="60" height="10" font="2">96 Sinvastatina</text>
+<text top="614" left="254" width="48" height="10" font="2">20mg/comp.</text>
+<text top="614" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="614" left="512" width="22" height="10" font="2">0,380</text>
+<text top="626" left="37" width="133" height="10" font="2">97 Sulfametoxazol + Trimetoprima</text>
+<text top="626" left="254" width="84" height="10" font="2">400mg + 80mg/comp.</text>
+<text top="626" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="626" left="512" width="22" height="10" font="2">0,080</text>
+<text top="639" left="37" width="133" height="10" font="2">98 Sulfametoxazol + Trimetoprima</text>
+<text top="639" left="254" width="116" height="10" font="2">200mg + 40mg/5ml/susp. Oral</text>
+<text top="639" left="407" width="50" height="10" font="2">Frasco 50 ml</text>
+<text top="639" left="512" width="22" height="10" font="2">1,450</text>
+<text top="652" left="37" width="133" height="10" font="2">99 Sulfametoxazol + Trimetoprima</text>
+<text top="652" left="254" width="116" height="10" font="2">200mg + 40mg/5ml/susp. Oral</text>
+<text top="652" left="407" width="50" height="10" font="2">Frasco 60 ml</text>
+<text top="652" left="512" width="22" height="10" font="2">1,740</text>
+<text top="665" left="32" width="137" height="10" font="2">100 Sulfametoxazol + Trimetoprima</text>
+<text top="665" left="254" width="116" height="10" font="2">200mg + 40mg/5ml/susp. Oral</text>
+<text top="665" left="405" width="55" height="10" font="2">Frasco 100 ml</text>
+<text top="665" left="512" width="22" height="10" font="2">2,900</text>
+<text top="677" left="32" width="69" height="10" font="2">101 Sulfasalazina</text>
+<text top="677" left="254" width="52" height="10" font="2">500mg/comp.</text>
+<text top="677" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="677" left="512" width="22" height="10" font="2">0,400</text>
+<text top="690" left="32" width="77" height="10" font="2">102 Sulfato Ferroso</text>
+<text top="690" left="254" width="87" height="10" font="2">40mg Fe(II)/comp. rev.</text>
+<text top="690" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="690" left="512" width="22" height="10" font="2">0,040</text>
+<text top="703" left="32" width="77" height="10" font="2">103 Sulfato Ferroso</text>
+<text top="703" left="254" width="91" height="10" font="2">25mg/ml Fe(II)/sol. Oral</text>
+<text top="703" left="408" width="50" height="10" font="2">Frasco 30 ml</text>
+<text top="703" left="512" width="22" height="10" font="2">0,750</text>
+<text top="716" left="32" width="65" height="10" font="2">104 Tiabendazol</text>
+<text top="716" left="254" width="34" height="10" font="2">5%/pom.</text>
+<text top="716" left="401" width="63" height="10" font="2">Tubo 20 gramas</text>
+<text top="716" left="512" width="22" height="10" font="2">2,890</text>
+<text top="728" left="32" width="91" height="10" font="2">105 Valproato de Sódio</text>
+<text top="728" left="254" width="52" height="10" font="2">50mg/ml/xpe.</text>
+<text top="728" left="405" width="55" height="10" font="2">Frasco 100 ml</text>
+<text top="728" left="512" width="22" height="10" font="2">4,050</text>
+<text top="741" left="32" width="104" height="11" font="2">106 Verapamila(Cloridrato)</text>
+<text top="742" left="254" width="48" height="10" font="2">80mg/comp.</text>
+<text top="741" left="409" width="47" height="10" font="2">Comprimido</text>
+<text top="741" left="512" width="22" height="10" font="2">0,160</text>
+<text top="754" left="32" width="107" height="10" font="2">107 Preservativo Masculino</text>
+<text top="754" left="417" width="31" height="10" font="2">unidade</text>
+<text top="754" left="512" width="22" height="10" font="2">0,300</text>
+</page>
+</pdf2xml>

@@ -1,0 +1,19 @@
+REQUIRES
+===============
+pdftohtml
+python-setuptools (to install)
+
+
+How to INSTALL
+==============
+
+As root, in the terminal, at the package directory, type:
+
+python setup.py install
+
+
+Usage:
+=========
+from pypdf2table.ExecuteConverter import ExecuteConverter
+
+ExecuteConverter(<filepath>, <targetdir>)
